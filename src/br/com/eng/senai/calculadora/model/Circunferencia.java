@@ -3,6 +3,8 @@ package br.com.eng.senai.calculadora.model;
 public class Circunferencia {
 	private double raio;
 	private double area;
+	
+	// Esse não é mais o projeto do Gabriel
 
 	public void setRaio(double raio) {
 		if(raio > 0) {
